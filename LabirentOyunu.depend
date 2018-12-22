@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545439475 source:c:\users\abra\documents\codeblock\labirentoyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
